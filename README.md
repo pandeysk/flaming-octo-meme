@@ -1,2 +1,3 @@
-# flaming-octo-meme
-demo repo for today's Intermediate class
+## Instructions
+
+please comment on issue #1 in orer to add as collaborator
