@@ -1,2 +1,2 @@
 # flaming-octo-meme
-demo repo for today's Intermediate class
+Change this for the demo repo for today's Intermediate class
