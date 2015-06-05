@@ -1,2 +1,4 @@
-# flaming-octo-meme
-demo repo for today's Intermediate class
+## Instructions
+Please comment on issue #1.  blah blah blah
+
+
